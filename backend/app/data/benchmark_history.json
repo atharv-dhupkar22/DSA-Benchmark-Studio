@@ -1,0 +1,245 @@
+[
+    {
+        "id": "05f4d96c-e553-4e90-b827-146d572b883c",
+        "created_at": "2026-07-28T07:53:11.388281",
+        "algorithm": "quick_sort",
+        "category": "Sorting",
+        "dataset_type": "random",
+        "dataset_size": 1000,
+        "runs": 3,
+        "execution": {
+            "average_ms": 1.666333333256868,
+            "median_ms": 1.5897000002951245,
+            "minimum_ms": 1.4604999996663537,
+            "maximum_ms": 1.9487999998091254,
+            "standard_deviation_ms": 0.2530093344631316
+        },
+        "peak_memory_kb": 0.0,
+        "algorithm_metrics": {
+            "time_complexity": "O(n log n)",
+            "space_complexity": "O(log n)",
+            "stable": false,
+            "in_place": true
+        },
+        "metadata": {
+            "python_version": "3.x",
+            "benchmark_engine": "DSA Benchmark Studio"
+        }
+    },
+    {
+        "id": "41707787-7da8-4ab9-af47-b41835f58e30",
+        "created_at": "2026-07-28T07:53:25.949583",
+        "algorithm": "heap_sort",
+        "category": "Sorting",
+        "dataset_type": "random",
+        "dataset_size": 1000,
+        "runs": 3,
+        "execution": {
+            "average_ms": 0.35509999967568245,
+            "median_ms": 0.3569999998944695,
+            "minimum_ms": 0.3448999996180646,
+            "maximum_ms": 0.3633999995145132,
+            "standard_deviation_ms": 0.009395211528523054
+        },
+        "peak_memory_kb": 0.0,
+        "algorithm_metrics": {
+            "time_complexity": "O(n log n)",
+            "space_complexity": "O(1)",
+            "stable": false,
+            "in_place": true
+        },
+        "metadata": {
+            "python_version": "3.x",
+            "benchmark_engine": "DSA Benchmark Studio"
+        }
+    },
+    {
+        "id": "3bc10f18-53d2-4baa-98ef-a792619e873e",
+        "created_at": "2026-07-28T07:53:30.897733",
+        "algorithm": "insertion_sort",
+        "category": "Sorting",
+        "dataset_type": "random",
+        "dataset_size": 1000,
+        "runs": 3,
+        "execution": {
+            "average_ms": 22.67366666668143,
+            "median_ms": 23.76689999982773,
+            "minimum_ms": 18.222599999717204,
+            "maximum_ms": 26.031500000499364,
+            "standard_deviation_ms": 4.017598679071931
+        },
+        "peak_memory_kb": 0.0,
+        "algorithm_metrics": {
+            "time_complexity": "O(n²)",
+            "space_complexity": "O(1)",
+            "stable": true,
+            "in_place": true
+        },
+        "metadata": {
+            "python_version": "3.x",
+            "benchmark_engine": "DSA Benchmark Studio"
+        }
+    },
+    {
+        "id": "33352f07-44e3-4c3a-919c-56187a2c4674",
+        "created_at": "2026-07-28T07:53:34.248464",
+        "algorithm": "shell_sort",
+        "category": "Sorting",
+        "dataset_type": "random",
+        "dataset_size": 1000,
+        "runs": 3,
+        "execution": {
+            "average_ms": 2.0682000000912617,
+            "median_ms": 2.139299999726063,
+            "minimum_ms": 1.4663000001746695,
+            "maximum_ms": 2.599000000373053,
+            "standard_deviation_ms": 0.5696873968005663
+        },
+        "peak_memory_kb": 0.0,
+        "algorithm_metrics": {
+            "time_complexity": "Depends on gap sequence",
+            "space_complexity": "O(1)",
+            "stable": false,
+            "in_place": true
+        },
+        "metadata": {
+            "python_version": "3.x",
+            "benchmark_engine": "DSA Benchmark Studio"
+        }
+    },
+    {
+        "id": "d41d858f-eebd-4e69-8faa-e6085611bc5c",
+        "created_at": "2026-07-28T08:19:18.490923",
+        "algorithm": "quick_sort",
+        "category": "Sorting",
+        "dataset_type": "random",
+        "dataset_size": 1000,
+        "runs": 3,
+        "execution": {
+            "average_ms": 3.8800666664731884,
+            "median_ms": 2.3172000001068227,
+            "minimum_ms": 1.9664000001284876,
+            "maximum_ms": 7.356599999184255,
+            "standard_deviation_ms": 3.0158710466604064
+        },
+        "peak_memory_kb": 0.0,
+        "algorithm_metrics": {
+            "time_complexity": "O(n log n)",
+            "space_complexity": "O(log n)",
+            "stable": false,
+            "in_place": true
+        },
+        "metadata": {
+            "python_version": "3.x",
+            "benchmark_engine": "DSA Benchmark Studio"
+        }
+    },
+    {
+        "id": "232ae895-944c-40a3-9330-b74b472f8fb3",
+        "created_at": "2026-07-28T08:19:21.651132",
+        "algorithm": "counting_sort",
+        "category": "Sorting",
+        "dataset_type": "random",
+        "dataset_size": 1000,
+        "runs": 3,
+        "execution": {
+            "average_ms": 0.9194999996301098,
+            "median_ms": 1.0360999995100428,
+            "minimum_ms": 0.58069999977306,
+            "maximum_ms": 1.1416999996072263,
+            "standard_deviation_ms": 0.29812232377412456
+        },
+        "peak_memory_kb": 0.0,
+        "algorithm_metrics": {
+            "time_complexity": "O(n+k)",
+            "space_complexity": "O(n+k)",
+            "stable": true,
+            "in_place": false
+        },
+        "metadata": {
+            "python_version": "3.x",
+            "benchmark_engine": "DSA Benchmark Studio"
+        }
+    },
+    {
+        "id": "27350897-32f4-47ca-aeea-c8db7acff393",
+        "created_at": "2026-07-28T08:19:26.052585",
+        "algorithm": "selection_sort",
+        "category": "Sorting",
+        "dataset_type": "random",
+        "dataset_size": 1000,
+        "runs": 3,
+        "execution": {
+            "average_ms": 51.922166666372505,
+            "median_ms": 51.985899999635876,
+            "minimum_ms": 41.73660000014934,
+            "maximum_ms": 62.0439999993323,
+            "standard_deviation_ms": 10.153850015389763
+        },
+        "peak_memory_kb": 0.0,
+        "algorithm_metrics": {
+            "time_complexity": "O(n²)",
+            "space_complexity": "O(1)",
+            "stable": false,
+            "in_place": true
+        },
+        "metadata": {
+            "python_version": "3.x",
+            "benchmark_engine": "DSA Benchmark Studio"
+        }
+    },
+    {
+        "id": "87c8cbb8-4f90-4a34-a2a2-5eff10aaae43",
+        "created_at": "2026-07-28T08:19:28.848826",
+        "algorithm": "insertion_sort",
+        "category": "Sorting",
+        "dataset_type": "random",
+        "dataset_size": 1000,
+        "runs": 3,
+        "execution": {
+            "average_ms": 47.50743333321831,
+            "median_ms": 49.10959999961051,
+            "minimum_ms": 40.91059999973368,
+            "maximum_ms": 52.50210000031075,
+            "standard_deviation_ms": 5.959523603948412
+        },
+        "peak_memory_kb": 0.0,
+        "algorithm_metrics": {
+            "time_complexity": "O(n²)",
+            "space_complexity": "O(1)",
+            "stable": true,
+            "in_place": true
+        },
+        "metadata": {
+            "python_version": "3.x",
+            "benchmark_engine": "DSA Benchmark Studio"
+        }
+    },
+    {
+        "id": "595c1334-81fb-4d16-a961-30b996cd2983",
+        "created_at": "2026-07-28T08:19:32.048525",
+        "algorithm": "merge_sort",
+        "category": "Sorting",
+        "dataset_type": "random",
+        "dataset_size": 1000,
+        "runs": 3,
+        "execution": {
+            "average_ms": 4.180766666650015,
+            "median_ms": 4.014699999970617,
+            "minimum_ms": 3.30740000026708,
+            "maximum_ms": 5.220199999712349,
+            "standard_deviation_ms": 0.9671528125409968
+        },
+        "peak_memory_kb": 0.0,
+        "algorithm_metrics": {
+            "time_complexity": "O(n log n)",
+            "space_complexity": "O(n)",
+            "stable": true,
+            "in_place": false
+        },
+        "metadata": {
+            "python_version": "3.x",
+            "benchmark_engine": "DSA Benchmark Studio"
+        }
+    }
+]

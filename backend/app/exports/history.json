@@ -1,0 +1,34 @@
+[
+    {
+        "id": "7805a8c1-d95c-409c-bf44-8658b99336b0",
+        "file_name": "benchmark_20260728_141226.pdf",
+        "format": "pdf",
+        "exported_at": "2026-07-28T14:12:26.298871",
+        "records": 9,
+        "size": "2.47 KB"
+    },
+    {
+        "id": "26bb7db2-46a6-48d0-ba62-dcf3ffd4f007",
+        "file_name": "benchmark_20260728_141237.csv",
+        "format": "csv",
+        "exported_at": "2026-07-28T14:12:37.838862",
+        "records": 9,
+        "size": "2.55 KB"
+    },
+    {
+        "id": "97a08d9b-d566-4da0-af16-8b0cc170d061",
+        "file_name": "benchmark_20260728_141333.csv",
+        "format": "csv",
+        "exported_at": "2026-07-28T14:13:33.735725",
+        "records": 9,
+        "size": "2.55 KB"
+    },
+    {
+        "id": "b4fa6c1e-3054-4b97-a283-52b85f01548b",
+        "file_name": "benchmark_20260728_141346.pdf",
+        "format": "pdf",
+        "exported_at": "2026-07-28T14:13:46.176526",
+        "records": 9,
+        "size": "2.47 KB"
+    }
+]
